@@ -52,7 +52,7 @@ class WeatherItem extends StatelessWidget {
                       decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(10)),
                       child: Text(
-                          'Max: \n${WeatherConverter().roundDegree(weather.consolidatedWeather[index].minTemp)}',
+                          'Max: \n${WeatherConverter().roundDegree(weather.consolidatedWeather[index].maxTemp)}',
                           style: Theme.of(context).textTheme.subtitle1),
                     ),
                   ],
