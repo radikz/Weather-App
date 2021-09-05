@@ -1,16 +1,25 @@
-# flutter_weather
+<p align="center">
+  <img src="https://i.ibb.co/bWqLyBD/ic-launcher.png">
+</p>
 
-A new Flutter project.
+## ⛅ Weather App
+Weather app made using flutter bloc pattern. Made with <span style="color: #e25555;">&#9829;</span> in Surabaya
+<br><br>
+<p align="center">
+  <img src="screenshots/ss.png">
+</p>
 
-## Getting Started
+## API
+For detail API, you can find it [Here](https://www.metaweather.com/api/) 
 
-This project is a starting point for a Flutter application.
+## How to use it?
+```cli
+git clone
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+### if you like the project, please take a moment to click ⭐ ^^
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Credits
+Icon - <a href='https://pngtree.com/so/cloud'>pngtree/</a>
